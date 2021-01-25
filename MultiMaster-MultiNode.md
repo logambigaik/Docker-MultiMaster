@@ -1,6 +1,6 @@
 
 # Pre-Requisites
-    Four EC2-Instance
+    Four EC2-Instances ( 2 Masters and 2 slaves)    
     Install Docker
 # Master1:
   Initilize Docker Swarm Master using below command
